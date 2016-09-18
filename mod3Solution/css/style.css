@@ -8,13 +8,15 @@
 body {
   text-align: justify;
 }
+
 /* HEADER */
 .navbar {
   border-radius: 0;
 }
 .navbar-brand {
   font-size: 1.9em;
-}.navbar li {
+}
+.navbar li {
   font-size: 1.4em;
 }
 .navbar li:hover {
@@ -32,7 +34,7 @@ h1 {
 
 /* MAIN CONTENT */
 p {
-  font-size: 1.2em;
+  font-size: 1.1em;
   color: #fff;
 }
 h3 {
