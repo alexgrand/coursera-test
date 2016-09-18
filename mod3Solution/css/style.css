@@ -33,6 +33,7 @@ h1 {
 /* MAIN CONTENT */
 p {
   font-size: 1.2em;
+  color: #fff;
 }
 h3 {
   color: maroon;
@@ -53,16 +54,12 @@ h3 {
 .space {
  position: absolute;
  height: 50px;
- width: 100%;
  margin-left: -15px;
  margin-top: -50px;
 }
 #chicken, #sushi {
   background-color: grey;
-  opacity: .6;
-}
-#chicken p, #sushi p {
-  color: #fff;
+  opacity: .8;
 }
 #beef {
   background-color: yellow;
@@ -71,7 +68,7 @@ h3 {
 #beef p{
   color: green;
 }
-
+/* button to top */
 .single-category .back-to-top .btn {
   position: absolute;
   margin-right: -15px;
@@ -101,4 +98,5 @@ h3 {
   color: #fff
   opacity: 1;
 }
+/* end button to top */
 /* END MAIN CONTENT */
