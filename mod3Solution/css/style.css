@@ -53,12 +53,12 @@ h3 {
   margin-bottom: 30px;
   padding-bottom: 20px;
 }
-.space {
+/*.space {
  position: absolute;
  height: 50px;
  margin-left: -15px;
  margin-top: -50px;
-}
+}*/
 #chicken, #sushi {
   background-color: grey;
   opacity: .8;
